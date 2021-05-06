@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\seyha\OneDrive\Masaüstü\JavaCamp\.metadata\.plugins\org.eclipse.jdt.core
+3685895863.index
+3882354900.index
