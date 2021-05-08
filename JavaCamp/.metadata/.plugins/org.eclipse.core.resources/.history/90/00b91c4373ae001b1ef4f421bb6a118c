@@ -1,7 +1,0 @@
-
-public class StudentManager {
-
-	public void get(int id) {
-		System.out.println(id+" numaralı öğrenci listelendi");
-	}
-}
